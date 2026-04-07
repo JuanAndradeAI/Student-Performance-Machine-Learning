@@ -4,9 +4,9 @@ This project explores how machine learning can be used to predict student perfor
 
 ---
 
-## Project Overview
+## Overview
 
-The main goal of this project is to build and evaluate models that can predict students' final grades (G3).
+The main goal is to build and evaluate models that can predict students final grades (G3).
 
 The workflow includes:
 - Data exploration (EDA)
@@ -22,8 +22,6 @@ The workflow includes:
 - Decision Tree Regressor  
 - Random Forest Regressor  
 
-Random Forest was the best-performing model in this project.
-
 ---
 
 ## Techniques Applied
@@ -36,7 +34,7 @@ Random Forest was the best-performing model in this project.
 
 ---
 
-## Key Findings
+## Key findings
 
 - Variables like **failures**, **absences**, and **studytime** had the strongest impact on performance  
 - Random Forest performed better than Decision Tree due to better generalization  
@@ -45,7 +43,7 @@ Random Forest was the best-performing model in this project.
 
 ---
 
-##  Future Improvements
+##  Future improvements
 
 - Try more advanced models  
 - Use more data or external features  
